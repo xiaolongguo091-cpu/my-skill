@@ -1,0 +1,319 @@
+{
+  "AI个人博主": [
+    {
+      "name": "Two Minute Papers",
+      "id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "subscribers": "1.5M+"
+    },
+    {
+      "name": "Lex Fridman",
+      "id": "UCSHZKyawb77ixDdsGog4iWA",
+      "subscribers": "3M+"
+    },
+    {
+      "name": "Krish Naik",
+      "id": "UCNU_lfiiWBdtULKOw6X0Dig",
+      "subscribers": "1.3M+"
+    },
+    {
+      "name": "Andrej Karpathy",
+      "id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+      "subscribers": "220K+"
+    },
+    {
+      "name": "3Blue1Brown",
+      "id": "UCYO_jab_esuFRV4b17AJtAw",
+      "subscribers": "6M+"
+    },
+    {
+      "name": "StatQuest",
+      "id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "subscribers": "1.5M+"
+    },
+    {
+      "name": "Yannic Kilcher",
+      "id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "subscribers": "300K+"
+    },
+    {
+      "name": "Tina Huang",
+      "id": "UC2UXDak6o7rBm23k3Vv5dww",
+      "subscribers": "1M+"
+    },
+    {
+      "name": "跟李沐学AI",
+      "id": "UC8WCW6C3BWLKSZ5cMzD8Gyw",
+      "subscribers": "500K+"
+    },
+    {
+      "name": "Hung-yi Lee",
+      "id": "UC2ggjtuuWvxrHHHiaDH1dlQ",
+      "subscribers": "300K+"
+    },
+    {
+      "name": "Andrew Ng",
+      "id": "UCep6Rpvw3PtOMJWAFpKl8Yw",
+      "subscribers": "1M+"
+    },
+    {
+      "name": "MIT HAN Lab",
+      "id": "UCcA-9WYwGaUrWiZaEDo84ng",
+      "subscribers": "50K+"
+    },
+    {
+      "name": "AI Explained",
+      "id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+      "subscribers": "300K+"
+    },
+    {
+      "name": "Latent Space",
+      "id": "UCxBcwypKK-W3GHd_RZ9FZrQ",
+      "subscribers": "50K+"
+    },
+    {
+      "name": "Eye on AI",
+      "id": "UC-o9u9QL4zXzBwjvT1gmzNg",
+      "subscribers": "30K+"
+    },
+    {
+      "name": "No Priors",
+      "id": "UCSI7h9hydQ40K5MJHnCrQvw",
+      "subscribers": "40K+"
+    }
+  ],
+  "AI产品官方": [
+    {
+      "name": "OpenAI",
+      "id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "subscribers": "500K+"
+    },
+    {
+      "name": "Google DeepMind",
+      "id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+      "subscribers": "300K+"
+    },
+    {
+      "name": "Anthropic",
+      "id": "UCwHvPbX8qB3s08Sq1ZBYHiw",
+      "subscribers": "309K+"
+    },
+    {
+      "name": "Microsoft",
+      "id": "UCFtEEv80fQVKkD4h1PF-Xqw",
+      "subscribers": "1M+"
+    },
+    {
+      "name": "Google",
+      "id": "UCK8sQmJBp8GCxrOtXWBpyEA",
+      "subscribers": "11M+"
+    },
+    {
+      "name": "NVIDIA",
+      "id": "UCHjmvEi4VDs3xBBNd8MXoCQ",
+      "subscribers": "500K+"
+    },
+    {
+      "name": "Meta AI",
+      "id": "UCH0lbUNjrHR1-xRpDpJ5w6A",
+      "subscribers": "200K+"
+    },
+    {
+      "name": "Hugging Face",
+      "id": "UCQfWPVKBvv4ydTqCJKPGHiw",
+      "subscribers": "50K+"
+    },
+    {
+      "name": "Stability AI",
+      "id": "UCd1pzJ32KqH4cwIbWOREsTA",
+      "subscribers": "30K+"
+    },
+    {
+      "name": "Cursor",
+      "id": "UCcIU7FehABY5FH6pM-YmWsQ",
+      "subscribers": "20K+"
+    },
+    {
+      "name": "Stripe",
+      "id": "UCGG3Vg4qn1zGPUqgGJ_1OeA",
+      "subscribers": "100K+"
+    }
+  ],
+  "科技个人博主": [
+    {
+      "name": "MKBHD",
+      "id": "UCBJycsmduvYEL83R_U4JriQ",
+      "subscribers": "20M+"
+    },
+    {
+      "name": "Linus Tech Tips",
+      "id": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "subscribers": "16M+"
+    },
+    {
+      "name": "Unbox Therapy",
+      "id": "UCsTcErHg8oDvUnTzoqsYeNw",
+      "subscribers": "18M+"
+    },
+    {
+      "name": "Mrwhosetheboss",
+      "id": "UCMiJRAwDNSNzuYeN2uWa0pA",
+      "subscribers": "19M+"
+    },
+    {
+      "name": "The Verge",
+      "id": "UCddiUEpeqJcYeBxX1IVBKvQ",
+      "subscribers": "3M+"
+    },
+    {
+      "name": "Austin Evans",
+      "id": "UCXGgrKt94gR6lmN4aN3mYTg",
+      "subscribers": "5M+"
+    },
+    {
+      "name": "Sentdex",
+      "id": "UCfzlCWGWYyIQ0aLC5w48gBQ",
+      "subscribers": "1.3M+"
+    },
+    {
+      "name": "Greg Isenberg",
+      "id": "UCQpN8cVNDZLGFMmQfkKYPbA",
+      "subscribers": "200K+"
+    },
+    {
+      "name": "Peter H. Diamandis",
+      "id": "UCvxm0qTrGN_1LMYgUaftWyQ",
+      "subscribers": "414K+"
+    },
+    {
+      "name": "Cole Medin",
+      "id": "UCG_z5iRH5X24AxhTWOWHKrw",
+      "subscribers": "100K+"
+    },
+    {
+      "name": "Ryan Peterman",
+      "id": "UCW1Q9oA7KNQ5BwjlOp4Qvgg",
+      "subscribers": "50K+"
+    },
+    {
+      "name": "How I AI",
+      "id": "UCwsKZXaVKgAXfA_XLYThx9w",
+      "subscribers": "30K+"
+    },
+    {
+      "name": "Every",
+      "id": "UCMh4H8N_r7WXwTTdKF6vbHA",
+      "subscribers": "20K+"
+    }
+  ],
+  "人生感悟/情绪": [
+    {
+      "name": "Jay Shetty",
+      "id": "UCbV60AGIHKz2xIGvbk0LLvg",
+      "subscribers": "5M+"
+    },
+    {
+      "name": "Psych2Go",
+      "id": "UCkJEpR7JmS36tajD34Gp4VA",
+      "subscribers": "12M+"
+    },
+    {
+      "name": "Mel Robbins",
+      "id": "UCk2U-Oqn7RXf-ydPqfSxG5g",
+      "subscribers": "2M+"
+    },
+    {
+      "name": "Ali Abdaal",
+      "id": "UCoOae5nYA7VqaXzerajD0lg",
+      "subscribers": "5M+"
+    },
+    {
+      "name": "Tom Bilyeu",
+      "id": "UCnYMOamNKLGVlJgRUbamveA",
+      "subscribers": "4M+"
+    },
+    {
+      "name": "Chris Williamson",
+      "id": "UCIaH-gZIVC432YRjNVvnyCA",
+      "subscribers": "3M+"
+    }
+  ],
+  "投资机构/创业": [
+    {
+      "name": "Y Combinator",
+      "id": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "subscribers": "1.5M+"
+    },
+    {
+      "name": "Sequoia Capital",
+      "id": "UCWrF0oN6unbXrWsTN7RctTw",
+      "subscribers": "200K+"
+    },
+    {
+      "name": "a16z",
+      "id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+      "subscribers": "300K+"
+    },
+    {
+      "name": "This Week in Startups",
+      "id": "UCkkhmBWfS7pILYIk0izkc3A",
+      "subscribers": "500K+"
+    },
+    {
+      "name": "All-In Podcast",
+      "id": "UCESLZhusAkFfsNsApnjF_Cg",
+      "subscribers": "1M+"
+    },
+    {
+      "name": "Greylock",
+      "id": "UCYK5vX7-rpRCPOWJrWuMerg",
+      "subscribers": "50K+"
+    },
+    {
+      "name": "First Round Capital",
+      "id": "UC_oji6l_-xwhmZqCxRGuAXw",
+      "subscribers": "30K+"
+    },
+    {
+      "name": "Lenny's Podcast",
+      "id": "UC6t1O76G0jYXOAoYCm153dA",
+      "subscribers": "100K+"
+    },
+    {
+      "name": "Kleiner Perkins",
+      "id": "UCkNsANayKfsdXFXHpBm8LQg",
+      "subscribers": "20K+"
+    },
+    {
+      "name": "Alex Kantrowitz",
+      "id": "UCPDpOu7FLuTH1PrvbkNQq3A",
+      "subscribers": "50K+"
+    },
+    {
+      "name": "20VC",
+      "id": "UCS5R1UqPAZfnGlRmJuEi6rg",
+      "subscribers": "200K+"
+    },
+    {
+      "name": "Jack Altman",
+      "id": "UCGwuxLOQnBXWB_jRIg5j4UQ",
+      "subscribers": "10K+"
+    },
+    {
+      "name": "Bg2 Pod",
+      "id": "UCrvYFGXFaKPJ8vc3hA8j4ZQ",
+      "subscribers": "20K+"
+    }
+  ],
+  "综合访谈/播客": [
+    {
+      "name": "Joe Rogan Experience",
+      "id": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+      "subscribers": "20.6M+"
+    },
+    {
+      "name": "Tim Ferriss",
+      "id": "UCznv7Vf9nBdJYvBagFdAHWw",
+      "subscribers": "1.72M+"
+    }
+  ]
+}

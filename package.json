@@ -1,0 +1,16 @@
+{
+  "name": "youtube-hot-analyzer",
+  "version": "1.0.0",
+  "description": "YouTube热门视频分析核心skill",
+  "type": "module",
+  "main": "lib/index.js",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "googleapis": "^128.0.0",
+    "node-fetch": "^2.7.0",
+    "xml2js": "^0.6.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

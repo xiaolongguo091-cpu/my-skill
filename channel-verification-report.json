@@ -1,0 +1,263 @@
+{
+  "valid": [
+    {
+      "category": "AI个人博主",
+      "name": "Two Minute Papers",
+      "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+      "subscribers": 1770000
+    },
+    {
+      "category": "AI个人博主",
+      "name": "Lex Fridman",
+      "channelId": "UCSHZKyawb77ixDdsGog4iWA",
+      "subscribers": 4900000
+    },
+    {
+      "category": "AI个人博主",
+      "name": "Krish Naik",
+      "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+      "subscribers": 1340000
+    },
+    {
+      "category": "AI个人博主",
+      "name": "Andrej Karpathy",
+      "channelId": "UCXUPKJO5MZQN11PqgIvyuvQ",
+      "subscribers": 1200000
+    },
+    {
+      "category": "AI个人博主",
+      "name": "3Blue1Brown",
+      "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+      "subscribers": 8000000
+    },
+    {
+      "category": "AI个人博主",
+      "name": "StatQuest",
+      "channelId": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "subscribers": 1560000
+    },
+    {
+      "category": "AI个人博主",
+      "name": "Yannic Kilcher",
+      "channelId": "UCZHmQk67mSJgfCCTn7xBfew",
+      "subscribers": 306000
+    },
+    {
+      "category": "AI个人博主",
+      "name": "Tina Huang",
+      "channelId": "UC2UXDak6o7rBm23k3Vv5dww",
+      "subscribers": 1080000
+    },
+    {
+      "category": "AI个人博主",
+      "name": "Hung-yi Lee",
+      "channelId": "UC2ggjtuuWvxrHHHiaDH1dlQ",
+      "subscribers": 353000
+    },
+    {
+      "category": "AI个人博主",
+      "name": "AI Explained",
+      "channelId": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+      "subscribers": 396000
+    },
+    {
+      "category": "AI产品官方",
+      "name": "OpenAI",
+      "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "subscribers": 1900000
+    },
+    {
+      "category": "科技个人博主",
+      "name": "Linus Tech Tips",
+      "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "subscribers": 16700000
+    },
+    {
+      "category": "科技个人博主",
+      "name": "Unbox Therapy",
+      "channelId": "UCsTcErHg8oDvUnTzoqsYeNw",
+      "subscribers": 24600000
+    },
+    {
+      "category": "科技个人博主",
+      "name": "Mrwhosetheboss",
+      "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+      "subscribers": 22100000
+    },
+    {
+      "category": "科技个人博主",
+      "name": "The Verge",
+      "channelId": "UCddiUEpeqJcYeBxX1IVBKvQ",
+      "subscribers": 3480000
+    },
+    {
+      "category": "科技个人博主",
+      "name": "Austin Evans",
+      "channelId": "UCXGgrKt94gR6lmN4aN3mYTg",
+      "subscribers": 5720000
+    },
+    {
+      "category": "科技个人博主",
+      "name": "Sentdex",
+      "channelId": "UCfzlCWGWYyIQ0aLC5w48gBQ",
+      "subscribers": 1430000
+    },
+    {
+      "category": "人生感悟/情绪",
+      "name": "Ali Abdaal",
+      "channelId": "UCoOae5nYA7VqaXzerajD0lg",
+      "subscribers": 6510000
+    },
+    {
+      "category": "人生感悟/情绪",
+      "name": "Tom Bilyeu",
+      "channelId": "UCnYMOamNKLGVlJgRUbamveA",
+      "subscribers": 4610000
+    },
+    {
+      "category": "投资机构/创业",
+      "name": "Y Combinator",
+      "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "subscribers": 2110000
+    },
+    {
+      "category": "投资机构/创业",
+      "name": "All-In Podcast",
+      "channelId": "UCESLZhusAkFfsNsApnjF_Cg",
+      "subscribers": 998000
+    },
+    {
+      "category": "综合访谈/播客",
+      "name": "Tim Ferriss",
+      "channelId": "UCznv7Vf9nBdJYvBagFdAHWw",
+      "subscribers": 1730000
+    }
+  ],
+  "invalid": [
+    {
+      "category": "AI个人博主",
+      "configName": "跟李沐学AI",
+      "channelId": "UCjS15lZRBMf4Ux5c1Jj1jMg",
+      "reason": "频道不存在"
+    },
+    {
+      "category": "AI个人博主",
+      "configName": "Andrew Ng",
+      "channelId": "UC-6Qm9OGzgN57LfuOmcvwwQ",
+      "reason": "频道不存在"
+    },
+    {
+      "category": "AI个人博主",
+      "configName": "MIT HAN Lab",
+      "channelId": "UCwR8wGMDUe5Fvg3UxjG2xzw",
+      "reason": "频道不存在"
+    },
+    {
+      "category": "AI个人博主",
+      "configName": "Latent Space",
+      "channelId": "UCD80yi8P8eEDFZJIx62CU4Q",
+      "reason": "频道不存在"
+    },
+    {
+      "category": "AI个人博主",
+      "configName": "Eye on AI",
+      "channelId": "UCdpxXYUXOBbYiQ0kSJdJJCg",
+      "reason": "频道不存在"
+    },
+    {
+      "category": "AI个人博主",
+      "configName": "No Priors",
+      "channelId": "UCEr9pOrhWVbQC99S4qpH6Gw",
+      "reason": "频道不存在"
+    },
+    {
+      "category": "AI产品官方",
+      "configName": "Google DeepMind",
+      "channelId": "UC5nmMVR5k3-7JVG-DP3E8eg",
+      "reason": "频道不存在"
+    },
+    {
+      "category": "人生感悟/情绪",
+      "configName": "Jay Shetty",
+      "channelId": "UCbV6P-uD3kNSgAf4sEy9YVQ",
+      "reason": "频道不存在"
+    },
+    {
+      "category": "人生感悟/情绪",
+      "configName": "Psych2Go",
+      "channelId": "UCkJEpR7JmS36tajD34Gz16g",
+      "reason": "频道不存在"
+    },
+    {
+      "category": "人生感悟/情绪",
+      "configName": "Mel Robbins",
+      "channelId": "UCOK2RI5XkVx8qrCnKH7CaHg",
+      "reason": "频道不存在"
+    },
+    {
+      "category": "人生感悟/情绪",
+      "configName": "Chris Williamson",
+      "channelId": "UCYGSz_KJl0OV8GGHSwuJDvg",
+      "reason": "频道不存在"
+    },
+    {
+      "category": "投资机构/创业",
+      "configName": "Sequoia Capital",
+      "channelId": "UCo-IacYEZcbPLxu2c0ItdmA",
+      "reason": "频道不存在"
+    },
+    {
+      "category": "投资机构/创业",
+      "configName": "a16z",
+      "channelId": "UC6KQVR1YdS5-XMK0G0vy1fQ",
+      "reason": "频道不存在"
+    },
+    {
+      "category": "投资机构/创业",
+      "configName": "This Week in Startups",
+      "channelId": "UCkkhmjC8GfPBXVZvd3AkJWA",
+      "reason": "频道不存在"
+    },
+    {
+      "category": "投资机构/创业",
+      "configName": "Greylock",
+      "channelId": "UCiVhLjFoHWxdHIZWLG7cQzA",
+      "reason": "频道不存在"
+    },
+    {
+      "category": "投资机构/创业",
+      "configName": "First Round Capital",
+      "channelId": "UCEENr0cB2V9u9Bqj3wlL29w",
+      "reason": "频道不存在"
+    },
+    {
+      "category": "投资机构/创业",
+      "configName": "Lenny's Podcast",
+      "channelId": "UCjdNvqvSGpYwJAJhF-u_bmw",
+      "reason": "频道不存在"
+    },
+    {
+      "category": "投资机构/创业",
+      "configName": "Kleiner Perkins",
+      "channelId": "UCIg0n9KMc9QTTQ-u6k_-y4g",
+      "reason": "频道不存在"
+    }
+  ],
+  "mismatch": [
+    {
+      "category": "科技个人博主",
+      "configName": "MKBHD",
+      "actualName": "Marques Brownlee",
+      "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+      "subscribers": 20700000
+    },
+    {
+      "category": "综合访谈/播客",
+      "configName": "Joe Rogan Experience",
+      "actualName": "PowerfulJRE",
+      "channelId": "UCzQUP1qoWDoEbmsQxvdjxgQ",
+      "subscribers": 20600000
+    }
+  ],
+  "total": 45
+}
